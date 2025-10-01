@@ -4,9 +4,12 @@
 
 <p align="center">Soy Analista de Datos Junior y estudiante de la carrera Técnico en Programación y Análisis de Sistemas, con un fuerte interés en el Análisis de Datos y la Ciencia de Datos. Me apasiona utilizar la información para generar conocimiento y tomar decisiones basadas en evidencia. Mi objetivo profesional es seguir creciendo como Analista de Datos y avanzar hacia el rol de Científico de Datos, contribuyendo con soluciones basadas en el análisis, la interpretación y el uso inteligente de los datos. Estoy en constante aprendizaje y he realizado certificaciones que me han ayudado a fortalecer mis habilidades técnicas. Actualmente, busco oportunidades para aplicar lo aprendido en proyectos reales y continuar desarrollándome en este campo.</p>
 
-### 📬 Contacto
+### 📬 Contacto & Portafolio
 
 <div align="left">
+  <a href="https://emanuel-acosta.github.io/portafolio/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portafolio&logo=github&label=&color=3d8d7a&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portafolio logo" />
+  </a>
   <a href="mailto:emanuelacosta.tr@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
@@ -20,12 +23,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emanuel-Acosta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+### 🛠️ Tecnologías y Herramientas
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="30" alt="powerbi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
@@ -52,18 +59,29 @@
 
 ###
 
-<h3 align="left">Proyectos Relevantes:</h3>
+<h3 align="left">🚀 Proyectos Destacados:</h3>
+
+### 📊 Análisis de Datos y Dashboard Interactivo
+
+- [📈 **Proyecto de Análisis de Datos Completo**](https://emanuel-acosta.github.io/portafolio/proAnalisis.html) - Dashboard interactivo con Power BI
+  - 🔍 **Análisis ETL**: Proceso completo de extracción, transformación y carga de datos
+  - 📊 **Dashboard en Vivo**: [Ver Dashboard Interactivo](https://emanuel-acosta.github.io/portafolio/proAnalisis.html)
+  - 🛠️ **Tecnologías**:  Power BI, Excel
+  - 📋 **Metodología**: Análisis exploratorio, limpieza de datos, visualizaciones avanzadas
 
 ### 📊 Proyectos de Ciencia de Datos
 
-- [🔍 Análisis de ventas por tienda (Python) – AnalisisTiendas](https://github.com/Emanuel-Acosta/AnalisisTiendas)
-- [📉 Análisis de churn en TelecomX – challenge-telecom-X1](https://github.com/Emanuel-Acosta/challege-telecom-X1)
-- [📊 Modelo de churn avanzado en TelecomX – challenge-telecom-X2](https://github.com/Emanuel-Acosta/challege-telecom-X2)
+- [🔍 **Análisis de ventas por tienda (Python)** – AnalisisTiendas](https://github.com/Emanuel-Acosta/AnalisisTiendas)
+- [📉 **Análisis de churn en TelecomX** – challenge-telecom-X1](https://github.com/Emanuel-Acosta/challege-telecom-X1)
+- [📊 **Modelo de churn avanzado en TelecomX** – challenge-telecom-X2](https://github.com/Emanuel-Acosta/challege-telecom-X2)
 
-### 💻 Proyecto de Programación
+### 💻 Desarrollo Web
 
-- [🎬 CinePedia – Aplicación web de películas (Flask)](https://github.com/Emanuel-Acosta/CinePedia)
+- [🎬 **CinePedia** – Aplicación web de películas (Flask)](https://github.com/Emanuel-Acosta/CinePedia)
 
+### 🌐 Portafolio Profesional
+
+- [💼 **Mi Portafolio Completo**](https://emanuel-acosta.github.io/portafolio/) - Sitio web profesional con todos mis proyectos
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Emanuel-Acosta.Emanuel-Acosta&"  />
